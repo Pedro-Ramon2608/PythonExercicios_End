@@ -1,0 +1,2 @@
+# Força o GitHub a ignorar todo o conteúdo desta pasta/arquivos na contagem de linguagens
+* linguist-vendored=true
